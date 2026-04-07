@@ -18,8 +18,11 @@
   },
   "dependencies": {
     "@hapi/boom": "^10.0.1",
+    "@replit/connectors-sdk": "^0.3.0",
     "@whiskeysockets/baileys": "^6.7.9",
+    "adm-zip": "^0.5.17",
     "dotenv": "^17.4.0",
+    "javascript-obfuscator": "^5.4.1",
     "pino": "^8.21.0",
     "ruhend-scraper": "^10.0.1",
     "sharp": "^0.34.5"
