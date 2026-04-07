@@ -1,0 +1,27 @@
+{
+  "name": "arrow-md",
+  "version": "1.0.4",
+  "description": "Arrow-MD WhatsApp Bot by Kevo Loves",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "data/*",
+      "baileys_auth/*",
+      ".session_tmp.zip",
+      ".session_restore.zip"
+    ],
+    "ext": "js"
+  },
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.7.9",
+    "dotenv": "^17.4.0",
+    "pino": "^8.21.0",
+    "ruhend-scraper": "^10.0.1",
+    "sharp": "^0.34.5"
+  }
+}
