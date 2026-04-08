@@ -17,6 +17,7 @@
     "ext": "js"
   },
   "dependencies": {
+    "@distube/ytdl-core": "^4.16.12",
     "@hapi/boom": "^10.0.1",
     "@replit/connectors-sdk": "^0.3.0",
     "@whiskeysockets/baileys": "^6.7.9",
@@ -24,7 +25,10 @@
     "dotenv": "^17.4.0",
     "javascript-obfuscator": "^5.4.1",
     "pino": "^8.21.0",
+    "play-dl": "^1.9.7",
     "ruhend-scraper": "^10.0.1",
-    "sharp": "^0.34.5"
+    "sharp": "^0.34.5",
+    "youtube-dl-exec": "^3.1.4",
+    "youtubei.js": "^17.0.1"
   }
 }
