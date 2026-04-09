@@ -25,5 +25,5 @@ module.exports = {
   ownerNumber: '254xxxxx',
   sessionID: process.env.SESSION_ID || ''
   // Arrow-MD≈
-  // get session ID from https://t.me/pair_master_bot
+  // get session ID from https://arrow-md-pair-site.onrender.com/
 };
