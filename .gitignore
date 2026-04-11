@@ -4,3 +4,4 @@ node_modules
 baileys_auth
 .pair_sessions
 package-lock.json
+.env
