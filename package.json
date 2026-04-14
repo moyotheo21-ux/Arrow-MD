@@ -1,6 +1,6 @@
 {
   "name": "arrow-md",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Arrow-MD WhatsApp Bot by Kevo Loves",
   "main": "index.js",
   "scripts": {
@@ -20,14 +20,17 @@
     "@distube/ytdl-core": "^4.16.12",
     "@hapi/boom": "^10.0.1",
     "@replit/connectors-sdk": "^0.3.0",
-    "@whiskeysockets/baileys": "^6.7.9",
+    "@whiskeysockets/baileys": "^7.0.0-rc.9",
     "adm-zip": "^0.5.17",
+    "axios": "^1.15.0",
     "dotenv": "^17.4.0",
+    "formdata-node": "^6.0.3",
     "javascript-obfuscator": "^5.4.1",
     "pino": "^8.21.0",
     "play-dl": "^1.9.7",
     "ruhend-scraper": "^10.0.1",
     "sharp": "^0.34.5",
+    "telegraf": "^4.16.3",
     "youtube-dl-exec": "^3.1.4",
     "youtubei.js": "^17.0.1"
   }
