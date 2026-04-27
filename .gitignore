@@ -5,6 +5,7 @@ baileys_auth
 .env
 temp
 .bootstrap_tmp_*
+.git
 
 # Auto-pulled from dev repo on first start — not stored in public repo
 commands
